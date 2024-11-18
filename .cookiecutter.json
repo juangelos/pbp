@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/s/ai-talk",
+  "_repo_dir": "/home/juang/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Juan Ignacio Gelos",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "juangelos@gmail.com",
+  "friendly_name": "bestie1",
+  "github_user": "juangelos",
+  "license": "MIT",
+  "package_name": "bp1",
+  "project_name": "bp1",
+  "version": "0.1.0"
+}
