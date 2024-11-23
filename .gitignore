@@ -1,3 +1,4 @@
+.aid*
 .mypy_cache/
 /.coverage
 /.coverage.*
